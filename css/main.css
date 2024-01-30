@@ -134,7 +134,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: {{ site.hover-col }};
+  text-decoration: underline;
 }
 
 .navbar-custom .navbar-brand-logo {
